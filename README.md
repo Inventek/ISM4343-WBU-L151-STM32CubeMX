@@ -9,5 +9,5 @@ This SIP module is based on :
 5.	Small form factor - 10x10 mm LGA Module
 
 # Infineon AIROC-Wi-Fi-Bluetooth-STM32 Expansion Pack
-<li><a href="/Infineon/AIROC-Wi-Fi-Bluetooth-STM32">Infineon AIROC-Wi-Fi-Bluetooth-STM32 GIT</a></li>
-<li><a href="/Infineon/AIROC-Wi-Fi-Bluetooth-STM32/blob/master/Documentation/InfineonAIROC-Wi-Fi-Bluetooth-STM32ExpansionPack_UserGuide.pdf">Infineon AIROC-Wi-Fi-Bluetooth-STM32 Expansion Pack User Guide</a></li>
+<li><a href="https://github.com/Infineon/AIROC-Wi-Fi-Bluetooth-STM32">Infineon AIROC-Wi-Fi-Bluetooth-STM32 GIT</a></li>
+<li><a href="https://github.com/Infineon/AIROC-Wi-Fi-Bluetooth-STM32/blob/master/Documentation/InfineonAIROC-Wi-Fi-Bluetooth-STM32ExpansionPack_UserGuide.pdf">Infineon AIROC-Wi-Fi-Bluetooth-STM32 Expansion Pack User Guide</a></li>
