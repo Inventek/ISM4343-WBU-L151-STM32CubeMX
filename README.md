@@ -1,15 +1,10 @@
 # STCube-4343-U585-Platform
-Project - N13
-Hardware :
-The Inventek ISM4343-WBM-L151-U SiP (10x10mm) offers a single-band IEEE 802.11
-b,g,n-compliant MAC/PHY, and BT/BLE 5.1 radio. Channel bandwidth of 20MHz is 
-supported for IEEE 802.11 b,g,n traffic with integrated ST Micro STM585 Cortex M33
-MCU that runs the TCP/IP stack.
+STMicroelectronics U585 Wi-Fi /BT product release from Inventek. 
 
-Project Name: N13
-STM32CubeMX 6.9.2
-11/06/2023
+This SIP module is based on :
+1.	ST Micro  MCU, the STM32U585AII6, in the UFBGA 169, with 2 Mbytes of Flash (dual bank) memory and 786 Kbytes of SRAM
+2.	Infineon CYM4343W Wi-Fi/BT combo radio, 
+3.	An additional 2 M bytes of SPI Flash
+4.	Low Pass filter, Two 32Khz RTC, and 26Mhz clock
+5.	Small form factor - 10x10 mm LGA Module
 
-MCU Series - SMT32FU5 ,  MCU Line STM32U575/585 ,  MCU Name STM32U585AIIx
-MCU Package UFBGA 169
-Cortex -M33
