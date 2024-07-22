@@ -1,4 +1,4 @@
-# STCube-4343-U585-Platform
+# ISM4343-WBU-L151-STM32CubeMX
 STMicroelectronics U585 Wi-Fi /BT product release from Inventek. 
 
 This SIP module is based on :
@@ -8,3 +8,5 @@ This SIP module is based on :
 4.	Low Pass filter, Two 32Khz RTC, and 26Mhz clock
 5.	Small form factor - 10x10 mm LGA Module
 
+# Infineon AIROC-Wi-Fi-Bluetooth-STM32 Expansion Pack
+https://github.com/Infineon/AIROC-Wi-Fi-Bluetooth-STM32
